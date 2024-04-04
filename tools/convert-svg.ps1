@@ -1,5 +1,5 @@
 #
-# Convert SVG to plain SVG. Use inkscape 0.48.5
+# Convert SVG to plain SVG (black icons in Visio). Use inkscape 0.48.5
 #
 
 $directory = "."
