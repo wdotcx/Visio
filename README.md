@@ -1,6 +1,6 @@
 # 🎨 Visio Stencils
 
-This repository contains various vendor SVG icons converted into Visio stencils for easy use in your diagrams and architecture designs.
+This repository contains various vendor SVG icons converted into Visio stencils for easy use in your diagrams and architecture designs. PowerShell script included to convert SVG files into Visio stencils.
 
 ## Available Icon Sets
 
